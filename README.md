@@ -1,3 +1,9 @@
 # J.A.R.V.I.S.
 
-A Repository to contain all of my Python Codes in a single place.
+A chatbot with basic functions of Mathematics, Searching , Chatting and Ui Control.
+
+## Repos required
+-- Pyaudio
+-- SpeechRecognition
+-- PyJokes
+-- Wikipedia
